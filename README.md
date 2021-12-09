@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Shivam
+![its me1](https://user-images.githubusercontent.com/81983943/145461679-aadba113-91cc-4fe5-88df-012ebde8dd85.jpg)
+
+
+
+- 👋 Hi, I’m Shivam!
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Data Science Challenges
 - 💞️ I’m looking to collaborate on Data Science Projects
