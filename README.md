@@ -3,9 +3,9 @@
 
 
 - 👋 Hi, I’m Shivam!
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Data Science Challenges
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m Data Scientist 
+- 🌱 Specialized in financial modelling 
+- 💞️ Working on real projects to solve fintech problems
 - 📫 How to reach me ... linkedin.com/in/shivam-joshi-2339971b1/ 
 
 <!---
