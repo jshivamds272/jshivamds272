@@ -2,10 +2,10 @@
 
 
 
-- 👋 Hi, I’m Shivam!
-- 👀 I’m Data Scientist 
-- 🌱 Specialized in financial modelling 
-- 💞️ Working on real projects to solve fintech problems
+- 🌍 Indian 
+- 👀 Data Scientist 
+- 🌱 Specialized in financial and statistical modelling 
+- 💯 Working on real projects to solve fintech problems
 - 📫 How to reach me ... linkedin.com/in/shivam-joshi-2339971b1/ 
 
 <!---
