@@ -6,7 +6,7 @@
 - 👀 Data Scientist 
 - 🌱 Specialized in financial and statistical modelling 
 - 💯 Working on real projects to solve fintech problems
-- 📫 How to reach me ... linkedin.com/in/shivam-joshi-2339971b1/ 
+- 📫 How to reach me ... [LinkedIn](linkedin.com/in/shivam-joshi-2339971b1/) 
 
 <!---
 jshivamds272/jshivamds272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
